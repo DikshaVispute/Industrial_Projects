@@ -1,1 +1,1 @@
-# Industrial_Projects
+This repository contains multiple industrial-level software projects developed for academic and practical learning. Each project is organized in a separate folder and focuses on applying core software engineering concepts, data structures, and real-world problem-solving using modern programming languages and tools. This repository is maintained to showcase hands-on project experience and coding practices.
